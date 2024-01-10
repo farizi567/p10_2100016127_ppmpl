@@ -1,8 +1,4 @@
-# Reza Cahya Sanjaya - 2100016066
-
-# Tugas Praktikum
-
-## Deskripsi Project
+210001627 m alfarizi sidiq rizki
 
 - terdapat 2 folder yaitu `src` dan `test`
 - `src` berisi tentang beberapa function sederhana yang akan di test, serta dummy data yang akan digunakan sebagai mocking, diantaranya
