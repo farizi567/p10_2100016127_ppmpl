@@ -1,4 +1,4 @@
-210001627 m alfarizi sidiq rizki
+2100016127 m alfarizi sidiq rizki A
 
 - terdapat 2 folder yaitu `src` dan `test`
 - `src` berisi tentang beberapa function sederhana yang akan di test, serta dummy data yang akan digunakan sebagai mocking, diantaranya
